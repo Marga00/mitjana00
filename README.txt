@@ -1,3 +1,4 @@
 
 Projecte mitjana00: Versió 0.2
-Segona versio´ de README
+Segona versió de README
+Tercera versió de README
